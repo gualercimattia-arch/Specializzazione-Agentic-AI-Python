@@ -1,0 +1,3 @@
+# Dipendenze del corso (aggiungere qui le librerie man mano)
+python-dotenv
+requests
