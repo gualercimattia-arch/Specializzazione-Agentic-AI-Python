@@ -16,4 +16,8 @@ pip install -r requirements.txt
 copy .env.example .env
 ```
 
-Inserire la propria chiave OpenAI nel file `.env`, poi aprire `rag_base.ipynb` selezionando il kernel `.venv`.
+Inserire la propria chiave OpenAI nel file `.env`, poi eseguire lo script dalla cartella `selfwork_rag_base`:
+
+```powershell
+python rag_base.py
+```
